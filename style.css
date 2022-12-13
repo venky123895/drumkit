@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(16,43,66);
+}
+.heading{
+    text-align: center;
+    font-size: 75px;
+    color: rgb(219,237,243);
+}
+.content{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+#box1{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
+.text{
+    
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#box2{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
+#box3{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
+#box4{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
+#box5{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
+#box6{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
+#box7{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+    border: 10px solid black;
+}
